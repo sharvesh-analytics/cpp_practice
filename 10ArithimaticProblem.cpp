@@ -2,7 +2,7 @@
 // AP=2*n-1 formula
 
 #include <iostream>
-using namespace std;
+using namespace  std;
 int main(){
     int n;
     cout<<"enter the number:";
