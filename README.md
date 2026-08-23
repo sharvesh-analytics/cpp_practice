@@ -1,4 +1,4 @@
-# 💻 C++ Daily Practice
+# 💻  C++ Daily Practice
 
 ## 📌 Overview
 This repository contains my daily C++ programming practice.
